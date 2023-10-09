@@ -14,6 +14,7 @@
         <h2>Podnaslov</h2>
         <p>Odlomak 1</p>
         <p>Odlomak 2</p>
-
+        <img src="s15.jpg" alt="slika" width="500">
+	<img src="https://i.redd.it/ql6v0q860st91.jpg" alt="slika" width="500">
 	</body>
 </html>
